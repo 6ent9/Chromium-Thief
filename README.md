@@ -7,6 +7,9 @@ Chrome 80> is supported!
 * `pip install pywin32`
 * `pip install pillow`
 
+* `pip install pytelegrambotapi`
+* `pip install opencv-python`
+
 
 ### :cherries: Functions:
 * Decryption of passwords
