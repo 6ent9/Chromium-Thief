@@ -6,7 +6,7 @@ Chrome 80> is supported!
 * `pip install cryptography`
 * `pip install pywin32`
 * `pip install pillow`
-* Or else
+* .........
 * `pip install pytelegrambotapi`
 * `pip install opencv-python`
 
