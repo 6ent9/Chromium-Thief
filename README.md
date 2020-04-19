@@ -8,7 +8,6 @@ Chrome 80> is supported!
 * `pip install pillow`
 #
 * `pip install pytelegrambotapi`
-* `pip install opencv-python`
 
 
 ### :cherries: Functions:
